@@ -1,4 +1,4 @@
-# AWS Serverless Application
+#AWS Serverless Patient Data Application
 
 ## Overview
 This project demonstrates my experience with cloud computing using AWS services.
